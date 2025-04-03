@@ -22,7 +22,7 @@ $(function () {
     "Proxy (Original Mix)"
   ];
   const trackNames = [
-    "Chappell Roan - ",
+    "Chappell Roan - The Giver",
     "Skylike - Dawn",
     "Kaaze - Electro Boy",
     "Jordan Schor - Home",
