@@ -18,14 +18,14 @@ $(function () {
     "The Subway",
     "The Trooper",
     "Let down",
-    "Teenage Wildlife",
+    "Lady Stardust",
     "Proxy (Original Mix)"
   ];
   const trackNames = [
     "Chappell Roan - The Giver",
     "Iron Maiden - Iron Maiden",
     "Radiohead - Ok Computer",
-    "David Bowie - Scary Monsters",
+    "David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
     "Martin Garrix - Proxy"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
