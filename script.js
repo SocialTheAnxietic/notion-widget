@@ -16,16 +16,16 @@ $(function () {
   const playNextTrackButton = $("#play-next");
   const albums = [
     "The Subway",
-    "Dawn",
-    "Electro Boy",
-    "Home",
+    "The Trooper",
+    "Let down",
+    "Teenage Wildlife",
     "Proxy (Original Mix)"
   ];
   const trackNames = [
     "Chappell Roan - The Giver",
-    "Skylike - Dawn",
-    "Kaaze - Electro Boy",
-    "Jordan Schor - Home",
+    "Iron Maiden - Iron Maiden",
+    "Radiohead - Ok Computer",
+    "David Bowie - Scary Monsters",
     "Martin Garrix - Proxy"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
